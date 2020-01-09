@@ -1,5 +1,9 @@
 # instalar nodejs no ubuntu
-    https://www.hostinger.com.br/tutoriais/instalar-node-js-ubuntu/
+    . https://www.hostinger.com.br/tutoriais/instalar-node-js-ubuntu/
+
+# tools
+    . npm install nodemon --save-dev (instalar watched de execução da app)
+    . nodemon ..\bin\server.js (configurar)
 
 # comandos
     . npm init -y (inicializar projeto)

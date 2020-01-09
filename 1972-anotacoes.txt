@@ -1,0 +1,6 @@
+# instalar nodejs no ubuntu
+    https://www.hostinger.com.br/tutoriais/instalar-node-js-ubuntu/
+
+# comandos
+    . npm init -y (inicializar projeto)
+    . npm install http debug express --save (instalar módulos básicos http, debug e web/mvc)
